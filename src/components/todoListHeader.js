@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class todoListHeader extends Component {
+export default class todoListHeader extends React.Component {
 	render() {
 		return (
 			
