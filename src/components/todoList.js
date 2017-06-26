@@ -9,10 +9,9 @@ export default class TodoList extends React.Component {
 			/> )
 	}
 
-
 	render() {
 		return (
-			<table>
+			<table> 
 				<TodoListHeader/>
 				<tbody>
 					{this.renderItems()}

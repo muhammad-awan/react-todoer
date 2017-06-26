@@ -1,7 +1,7 @@
 - Create a directory which will be your app directory 
 - In your react app directory:-
 
-$ npm init -y
+$ npm init -y (this tag uses defaults)
 $ npm i -S react react-dom
 $ npm i -D babel-core babel-loader babel-preset-latest babel-preset-react react-hot-loader webpack webpack-dev-server
 $ npm i -g webpack webpack-dev-server
